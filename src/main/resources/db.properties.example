@@ -1,0 +1,3 @@
+db.url=jdbc:mysql://localhost:3306/corporate_visitors?serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true
+db.user=visitor_app
+db.password=change_this_password
